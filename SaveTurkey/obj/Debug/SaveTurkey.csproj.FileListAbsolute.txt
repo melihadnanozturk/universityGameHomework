@@ -1,0 +1,32 @@
+C:\Users\mhldn\source\repos\SaveTurkeyForm\SaveTurkey\obj\Debug\SaveTurkey.csproj.AssemblyReference.cache
+C:\Users\mhldn\source\repos\SaveTurkeyForm\SaveTurkey\obj\Debug\SaveTurkey.Properties.Resources.resources
+C:\Users\mhldn\source\repos\SaveTurkeyForm\SaveTurkey\obj\Debug\SaveTurkey.csproj.GenerateResource.cache
+C:\Users\mhldn\source\repos\SaveTurkeyForm\SaveTurkey\obj\Debug\SaveTurkey.csproj.CoreCompileInputs.cache
+C:\Users\mhldn\source\repos\SaveTurkeyForm\SaveTurkey\bin\Debug\SaveTurkey.exe.config
+C:\Users\mhldn\source\repos\SaveTurkeyForm\SaveTurkey\bin\Debug\SaveTurkey.exe
+C:\Users\mhldn\source\repos\SaveTurkeyForm\SaveTurkey\bin\Debug\SaveTurkey.pdb
+C:\Users\mhldn\source\repos\SaveTurkeyForm\SaveTurkey\bin\Debug\SaveTurkey.Library.dll
+C:\Users\mhldn\source\repos\SaveTurkeyForm\SaveTurkey\bin\Debug\SaveTurkey.Library.pdb
+C:\Users\mhldn\source\repos\SaveTurkeyForm\SaveTurkey\obj\Debug\SaveTurkey.csproj.CopyComplete
+C:\Users\mhldn\source\repos\SaveTurkeyForm\SaveTurkey\obj\Debug\SaveTurkey.exe
+C:\Users\mhldn\source\repos\SaveTurkeyForm\SaveTurkey\obj\Debug\SaveTurkey.pdb
+C:\Users\mhldn\source\repos\SaveTurkeyForm\SaveTurkey\obj\Debug\SaveTurkey.Form1.resources
+C:\Users\mhldn\source\repos\SaveTurkeyForm\SaveTurkey\obj\Debug\SaveTurkey.FormScore.resources
+C:\Users\mhldn\source\repos\SaveTurkeyForm\SaveTurkey\obj\Debug\SaveTurkey.GameForm.resources
+C:\Users\mhldn\source\repos\SaveTurkeyForm\SaveTurkey\obj\Debug\SaveTurkey.UserInfo.resources
+C:\Users\mhldn\Desktop\NDP PROJE\SaveTurkeyForm\SaveTurkey\bin\Debug\SaveTurkey.exe.config
+C:\Users\mhldn\Desktop\NDP PROJE\SaveTurkeyForm\SaveTurkey\bin\Debug\SaveTurkey.exe
+C:\Users\mhldn\Desktop\NDP PROJE\SaveTurkeyForm\SaveTurkey\bin\Debug\SaveTurkey.pdb
+C:\Users\mhldn\Desktop\NDP PROJE\SaveTurkeyForm\SaveTurkey\bin\Debug\SaveTurkey.Library.dll
+C:\Users\mhldn\Desktop\NDP PROJE\SaveTurkeyForm\SaveTurkey\bin\Debug\SaveTurkey.Library.pdb
+C:\Users\mhldn\Desktop\NDP PROJE\SaveTurkeyForm\SaveTurkey\obj\Debug\SaveTurkey.csproj.AssemblyReference.cache
+C:\Users\mhldn\Desktop\NDP PROJE\SaveTurkeyForm\SaveTurkey\obj\Debug\SaveTurkey.Form1.resources
+C:\Users\mhldn\Desktop\NDP PROJE\SaveTurkeyForm\SaveTurkey\obj\Debug\SaveTurkey.FormScore.resources
+C:\Users\mhldn\Desktop\NDP PROJE\SaveTurkeyForm\SaveTurkey\obj\Debug\SaveTurkey.GameForm.resources
+C:\Users\mhldn\Desktop\NDP PROJE\SaveTurkeyForm\SaveTurkey\obj\Debug\SaveTurkey.Properties.Resources.resources
+C:\Users\mhldn\Desktop\NDP PROJE\SaveTurkeyForm\SaveTurkey\obj\Debug\SaveTurkey.UserInfo.resources
+C:\Users\mhldn\Desktop\NDP PROJE\SaveTurkeyForm\SaveTurkey\obj\Debug\SaveTurkey.csproj.GenerateResource.cache
+C:\Users\mhldn\Desktop\NDP PROJE\SaveTurkeyForm\SaveTurkey\obj\Debug\SaveTurkey.csproj.CoreCompileInputs.cache
+C:\Users\mhldn\Desktop\NDP PROJE\SaveTurkeyForm\SaveTurkey\obj\Debug\SaveTurkey.csproj.CopyComplete
+C:\Users\mhldn\Desktop\NDP PROJE\SaveTurkeyForm\SaveTurkey\obj\Debug\SaveTurkey.exe
+C:\Users\mhldn\Desktop\NDP PROJE\SaveTurkeyForm\SaveTurkey\obj\Debug\SaveTurkey.pdb

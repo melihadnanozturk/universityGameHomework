@@ -1,0 +1,12 @@
+C:\Users\mhldn\source\repos\SaveTurkeyForm\SaveTurkey.Library\bin\Debug\SaveTurkey.Library.dll
+C:\Users\mhldn\source\repos\SaveTurkeyForm\SaveTurkey.Library\bin\Debug\SaveTurkey.Library.pdb
+C:\Users\mhldn\source\repos\SaveTurkeyForm\SaveTurkey.Library\obj\Debug\SaveTurkey.Library.csproj.AssemblyReference.cache
+C:\Users\mhldn\source\repos\SaveTurkeyForm\SaveTurkey.Library\obj\Debug\SaveTurkey.Library.csproj.CoreCompileInputs.cache
+C:\Users\mhldn\source\repos\SaveTurkeyForm\SaveTurkey.Library\obj\Debug\SaveTurkey.Library.dll
+C:\Users\mhldn\source\repos\SaveTurkeyForm\SaveTurkey.Library\obj\Debug\SaveTurkey.Library.pdb
+C:\Users\mhldn\Desktop\NDP PROJE\SaveTurkeyForm\SaveTurkey.Library\bin\Debug\SaveTurkey.Library.dll
+C:\Users\mhldn\Desktop\NDP PROJE\SaveTurkeyForm\SaveTurkey.Library\bin\Debug\SaveTurkey.Library.pdb
+C:\Users\mhldn\Desktop\NDP PROJE\SaveTurkeyForm\SaveTurkey.Library\obj\Debug\SaveTurkey.Library.csproj.AssemblyReference.cache
+C:\Users\mhldn\Desktop\NDP PROJE\SaveTurkeyForm\SaveTurkey.Library\obj\Debug\SaveTurkey.Library.csproj.CoreCompileInputs.cache
+C:\Users\mhldn\Desktop\NDP PROJE\SaveTurkeyForm\SaveTurkey.Library\obj\Debug\SaveTurkey.Library.dll
+C:\Users\mhldn\Desktop\NDP PROJE\SaveTurkeyForm\SaveTurkey.Library\obj\Debug\SaveTurkey.Library.pdb
